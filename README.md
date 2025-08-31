@@ -1,3 +1,2 @@
 # Hopfield is all you need
-## Associative Memory
-## Energy Transformers
+Welcome to this repository, where we implement concepts around hopfield networks
