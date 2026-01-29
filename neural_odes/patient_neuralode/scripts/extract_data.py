@@ -13,5 +13,5 @@ df = pd.read_csv(StringIO(data_str))
 
 # Save to file
 df.to_csv("output.csv", index=False)
-print("✅ Data successfully saved to output.csv")
+print("Data successfully saved to output.csv")
 print(df.head())
