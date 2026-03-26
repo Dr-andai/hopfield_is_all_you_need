@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# experiments
+experiment.md
+
+
+# data files
+*.csv
