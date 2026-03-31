@@ -11,7 +11,3 @@ wheels/
 
 # experiments
 experiment.md
-
-
-# data files
-*.csv
